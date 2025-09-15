@@ -23,7 +23,7 @@
 
 ## 📌 Projeto em Destaque  
 
-### [Persianas Lua](https://persianaslua.vercel.app/)  
+### [Persianas Lua](https://persianaslua.com.br/)  
 Meu primeiro trabalho real 🚀 — um site responsivo para a loja de persianas do meu sogro.  
 - Catálogo de produtos online  
 - Envio de pedidos direto para o WhatsApp  
